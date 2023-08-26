@@ -1,16 +1,3 @@
-# my_contacts_2
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_2023-08-26-20-18-47-79_d3c327a29e56a80ed92d95ffced291cb](https://github.com/Omar-Muhammadd/my-contacts/assets/110769439/baffe5d9-9801-4934-afeb-083c07a08c81)# my contacts
+![Uploading Screenshot_2023-08-26-20-18-47-79_d3c327a29e56a80ed92d95ffc![Screenshot_2023-08-26-20-18-37-78_d3c327a29e56a80ed92d95ffced291cb](https://github.com/Omar-Muhammadd/my-contacts/assets/110769439/add5e944-546d-4740-98a5-d7b3551bebb4)
+ed291cb.jpg…]()
